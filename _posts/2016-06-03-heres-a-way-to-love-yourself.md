@@ -1,18 +1,18 @@
 ---
 description: 'And you know what? It’s hard, what you’re doing.'
-dateModified: '2016-06-03T18:39:19.043Z'
-datePublished: '2016-06-03T18:39:19.479Z'
+dateModified: '2016-06-03T19:05:50.634Z'
+datePublished: '2016-06-03T19:05:51.028Z'
 title: "Here's a way to love yourself."
 author: []
-starred: false
 sourcePath: _posts/2016-06-03-heres-a-way-to-love-yourself.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2bdb5f-3843-4788-a880-2021f20a57c4.jpg" /><h1>Here's a way to love yourself.</h1><p>You've been through a lot. You weren't expecting to find a friend, but you found this. Maybe this can give you a little bit of what you need, to carry on just a little bit further.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c6f451-d838-4eef-9b05-089ce886f648.jpg)
 
 And you know what? It's hard, what you're doing.
 
