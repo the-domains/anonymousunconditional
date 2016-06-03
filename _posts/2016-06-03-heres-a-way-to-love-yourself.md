@@ -1,11 +1,11 @@
 ---
 description: 'And you know what? It’s hard, what you’re doing.'
-dateModified: '2016-06-03T19:05:50.634Z'
-datePublished: '2016-06-03T19:05:51.028Z'
+dateModified: '2016-06-03T19:06:04.695Z'
+datePublished: '2016-06-03T19:06:05.132Z'
 title: "Here's a way to love yourself."
 author: []
 sourcePath: _posts/2016-06-03-heres-a-way-to-love-yourself.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
